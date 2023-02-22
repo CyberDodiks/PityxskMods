@@ -1,0 +1,51 @@
+{
+  "biomes": [
+    [
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "overworld"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "beach"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:white_beach"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:rainbow_beach"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:tropical_islands"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:rocky_beach"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:basalt_barrera"
+      }
+    ]
+  ]
+}

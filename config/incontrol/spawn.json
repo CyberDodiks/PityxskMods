@@ -1,0 +1,42 @@
+[
+    {
+      "mob": "cavesandcliffs:goat",
+      "dimension": "minecraft:overworld",
+      "biome": [
+        "minecraft:mountains",
+        "byg:bluff_peaks",
+        "byg:alps"],
+      "result": "default"
+    },
+    {
+      "mob": "cavesandcliffs:goat",
+      "dimension": "minecraft:overworld",
+      "incontrol": true,
+      "result": "deny"
+    },
+    {
+      "mob": "environmental:yak",
+      "dimension": "minecraft:overworld",
+      "biome": [
+        "minecraft:mountains",
+        "byg:bluff_peaks",
+        "byg:bluff_steeps",
+        "byg:alpine_foothills",
+        "byg:alps"],
+      "result": "default"
+    },
+    {
+      "mob": "environmental:yak",
+      "dimension": "minecraft:overworld",
+      "incontrol": true,
+      "result": "deny"
+    },
+    {
+      "mob": "environmental:slabfish",
+      "dimension": "minecraft:overworld",
+      "mincount": {  "amount": 10,
+      "mob": "environmental:slabfish",
+      "perplayer": true  },
+      "result": "deny"
+    }
+]    

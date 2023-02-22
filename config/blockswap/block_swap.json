@@ -1,0 +1,10 @@
+{
+  "retroGen": false,
+  "swapper": {
+    "byg:scoria_stone": "minecraft:granite",
+    "byg:soapstone": "minecraft:diorite",
+    "byg:water_silk": "environmental:duckweed", 
+    "byg:cattail": "environmental:tall_cattail",
+    "byg:mud_block": "environmental:mud"
+  }
+}

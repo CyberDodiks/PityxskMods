@@ -1,0 +1,73 @@
+{
+  "biomes": [
+    [
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "overworld"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "hot"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "dry"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "sandy"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "desert"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:dunes"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:red_desert"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:lush_red_deser"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:red_desert_dunes"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:mojave_desert"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:desert"
+      }
+    ]
+  ]
+}

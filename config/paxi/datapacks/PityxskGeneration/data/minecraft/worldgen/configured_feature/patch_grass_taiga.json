@@ -1,0 +1,54 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "can_replace": false,
+            "project": true,
+            "need_water": false,
+            "xspread": 3,
+            "yspread": 3,
+            "zspread": 3,
+            "whitelist": [],
+            "blacklist": [],
+            "tries": 32,
+            "state_provider": {
+              "state": {
+                "Name": "minecraft:grass"
+              },
+              "type": "minecraft:simple_state_provider"
+            },
+            "block_placer": {
+              "type": "minecraft:simple_block_placer"
+            }
+          },
+          "type": "minecraft:random_patch"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap_spread_double"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": 30,
+        "extra_chance": 0,
+        "extra_count": 0
+      },
+      "type": "minecraft:count_extra"
+    }
+  },
+  "type": "minecraft:decorated"
+}

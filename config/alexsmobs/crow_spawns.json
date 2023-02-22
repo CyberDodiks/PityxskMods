@@ -1,0 +1,297 @@
+{
+  "biomes": [
+    [
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "overworld"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": true,
+        "value": "savanna"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "forest"
+      }
+    ],
+    [
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "overworld"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": true,
+        "value": "savanna"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "plains"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:aspen_forest"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:zelkova_forest"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:zelkova_forest_hills"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:red_oak_forest"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:jacaranda_forest"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:jacaranda_forest_hills"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:seasonal_forest"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:evergreen_taiga"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:aspen_forest_hill"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:seasonal_birch_forest"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:seasonal_birch_forest_hills"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:seasonal_taiga"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:seasonal_taiga_hills"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:weeping_witch_forest"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:seasonal_deciduous_forest"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:seasonal_deciduous_forest_hills"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:the_black_forest"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:black_forest_hills"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:forest_fault"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:woodlands"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:flowering_grove"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:grove"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:ebony_woods"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:red_oak_forest"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:red_oak_forest_hills"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:boreal_forest"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:boreal_forest_hills"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:deciduous_forest"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:deciduous_forest_hills"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:cika_woods"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:coniferous_forest"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:coniferous_forest_hills"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:blue_taiga"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:blue_giant_taiga"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:blue_taiga_hills"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:redwood_tropics"
+      }
+    ],
+    [  
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:orchard"
+      }
+    ]
+  ]
+}
