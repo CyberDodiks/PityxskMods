@@ -38,5 +38,13 @@
       "mob": "environmental:slabfish",
       "perplayer": true  },
       "result": "deny"
+    },
+    {
+      "mob": "minecraft:enderman",
+      "dimension": "minecraft:the_end",
+      "mincount": {  "amount": 20,
+      "mob": "minecraft:enderman",
+      "perplayer": true  },
+      "result": "deny"
     }
 ]    

@@ -3,7 +3,7 @@
 	#Range: 1 ~ 10
 	long_press_count = 2
 	show_health_indicator = true
-	show_target_indicator = true
+	show_target_indicator = false
 	filter_animation = true
 	#Range: 0.0 ~ 1.0
 	laser_pointer_color = 0.328125
