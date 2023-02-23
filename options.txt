@@ -33,7 +33,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:3
 renderClouds:true
-resourcePacks:["mod_resources","vanilla","quark:emote_resources","PityxskEssential"]
+resourcePacks:["vanilla","mod_resources","PityxskEssential","quark:emote_resources"]
 incompatibleResourcePacks:["quark:emote_resources"]
 lastServer:
 lang:ru_ru
@@ -108,25 +108,32 @@ key_key.gui:key.keyboard.f1
 key_key.debugInfo:key.keyboard.f3
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
+key_key.entityculling.toggle:key.keyboard.unknown
 key_key.reveal:key.keyboard.g
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_placebo.toggleTrails:key.keyboard.keypad.9
+key_fpsreducer.key.openGui:key.keyboard.end
+key_fpsreducer.key.forceIdle:key.keyboard.pause
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
-key_fpsreducer.key.openGui:key.keyboard.m
-key_fpsreducer.key.forceIdle:key.keyboard.unknown
-key_quark.keybind.change_hotbar:key.keyboard.z
-key_quark.keybind.back:key.mouse.4
 key_quark.keybind.autorun:key.keyboard.caps.lock
-key_quark.keybind.camera_mode:key.keyboard.f12
+key_key.backpack:key.keyboard.b
+key_keybinds.combatroll.roll:key.keyboard.left.alt
+key_keybinds.bettercombat.feint:key.keyboard.g
+key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
+key_key.epicfight.weapon_special_skill:key.mouse.left
+key_key.curios.open.desc:key.keyboard.g
 key_key.ftbquests.quests:key.keyboard.unknown
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
 key_quark.keybind.shift_lock:key.keyboard.unknown
-key_quark.keybind.lock_rotation:key.keyboard.k
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
+key_quark.keybind.change_hotbar:key.keyboard.z
+key_quark.keybind.back:key.mouse.4
+key_quark.keybind.lock_rotation:key.keyboard.k
+key_quark.keybind.camera_mode:key.keyboard.f12
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown
@@ -159,7 +166,7 @@ key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
 key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
 key_key.jei.bookmark:key.keyboard.a
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
-soundCategory_master:0.31236205
+soundCategory_master:0.20750552
 soundCategory_music:0.0
 soundCategory_record:0.5938967
 soundCategory_weather:1.0
