@@ -31,3 +31,4 @@ mods.jei.JEI.hideItem(<item:byg:cattail>);
 mods.jei.JEI.hideItem(<item:byg:mud_block>);
 mods.jei.JEI.hideItem(<item:byg:stripped_cherry_log>);
 mods.jei.JEI.hideItem(<item:byg:stripped_cherry_wood>);
+mods.jei.JEI.hideItem(<item:epicfight:skillbook>);

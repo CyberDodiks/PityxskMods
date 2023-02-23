@@ -1,0 +1,26 @@
+{
+  "longfooted": {
+    "max_level": 1,
+    "min_cost": 9999,
+    "step_cost": 0,
+    "bonus_per_level": 0.0
+  },
+  "acrobat_chest": {
+    "max_level": 1,
+    "min_cost": 9999,
+    "step_cost": 0,
+    "bonus_per_level": 0.0
+  },
+  "acrobat_legs": {
+    "max_level": 1,
+    "min_cost": 9999,
+    "step_cost": 0,
+    "bonus_per_level": 0.0
+  },
+  "multi_roll": {
+    "max_level": 1,
+    "min_cost": 9999,
+    "step_cost": 0,
+    "bonus_per_level": 0.0
+  }
+}

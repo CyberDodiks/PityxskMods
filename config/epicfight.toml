@@ -1,7 +1,7 @@
 
 [default_gamerule]
-	doVanillaAttack = false
-	keepSkills = true
+	doVanillaAttack = true
+	keepSkills = false
 	hasFallAnimation = true
 	disapleEntityUI = false
 	#Range: 0 ~ 100
