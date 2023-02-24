@@ -384,7 +384,7 @@
 	"Snow Golem Player Heads" = true
 	"Springy Slime" = true
 	"Utility Recipes" = true
-	"Villagers Follow Emeralds" = true
+	"Villagers Follow Emeralds" = false
 
 	[tweaks.skull_pikes]
 		"Pike Range" = 5.0

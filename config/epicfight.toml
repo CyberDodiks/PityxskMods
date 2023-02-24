@@ -5,7 +5,7 @@
 	hasFallAnimation = true
 	disapleEntityUI = false
 	#Range: 0 ~ 100
-	weightPenalty = 50
+	weightPenalty = 100
 
 [loot]
 	skill_book_mob_loot = false
