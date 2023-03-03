@@ -7,7 +7,7 @@
 	filter_animation = true
 	#Range: 0.0 ~ 1.0
 	laser_pointer_color = 0.017123287671232876
-	enable_laser_pointer = true
+	enable_laser_pointer = false
 	camera_auto_switch = false
 	auto_preparation = false
 	off_gore = false

@@ -13,7 +13,7 @@
   "restrictMoonPhase": true,
   "enableEmissiveTextures": true,
   "enableEmissiveBlockEntities": true,
-  "emissiveRenderMode": "BRIGHT",
+  "emissiveRenderMode": "DULL",
   "specialEmissiveShield": true,
   "alwaysCheckVanillaEmissiveSuffix": true,
   "skinFeaturesEnabled": true,
@@ -35,11 +35,6 @@
   "removePixelsUnderEmissiveBlockEntity": true,
   "dontPatchPBRTextures": true,
   "dontPatchAnimatedTextures": true,
-  "ignoredConfigs": [
-    "FIGURA",
-    "ENHANCED_BLOCK_ENTITIES",
-    "QUARK",
-    "IRIS"
-  ],
+  "ignoredConfigs": [],
   "hideConfigButton": false
 }

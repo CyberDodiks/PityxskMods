@@ -46,5 +46,10 @@
       "mob": "minecraft:enderman",
       "perplayer": true  },
       "result": "deny"
+    },
+    {
+      "mob": "minecraft:slime",
+      "dimension": "minecraft:overworld",
+      "result": "deny"
     }
 ]    

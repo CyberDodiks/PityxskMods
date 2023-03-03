@@ -1,0 +1,10 @@
+{
+	"type": "fist",
+	"attributes": {
+		"common": {
+			"armor_negation": 2.8,
+  			"impact": 0.7,
+			"max_strikes": 1
+		}
+	}
+}
